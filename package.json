@@ -13,7 +13,7 @@
   "dependencies": {
     "lodash": "latest",
     "node-fetch": "2.6.0",
-    "better-sqlite3": "8.3.0",
+    "better-sqlite3": "",
     "sqlite3": "5.0.3",
     "sqlite": "4.0.21"
   },
